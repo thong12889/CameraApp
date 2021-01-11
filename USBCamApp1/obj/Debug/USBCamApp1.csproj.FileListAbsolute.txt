@@ -1,0 +1,13 @@
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\bin\Debug\USBCamApp1.exe.config
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\bin\Debug\USBCamApp1.exe
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\bin\Debug\USBCamApp1.pdb
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\bin\Debug\Basler.Pylon.dll
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\bin\Debug\Basler.Pylon.xml
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.csprojAssemblyReference.cache
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.Form1.resources
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.Properties.Resources.resources
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.csproj.GenerateResource.cache
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.csproj.CoreCompileInputs.cache
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.csproj.CopyComplete
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.exe
+C:\Users\DEMO1\source\repos\USBCamApp1\USBCamApp1\obj\Debug\USBCamApp1.pdb
